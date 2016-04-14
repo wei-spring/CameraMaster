@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="imgly_camera_preview_hdr_on">高动态范围 开</string>
+    <string name="imgly_camera_preview_hdr_off">高动态范围 关</string>
+
+    <string name="imgly_camera_preview_flash_auto">自动</string>
+    <string name="imgly_camera_preview_flash_on">开</string>
+    <string name="imgly_camera_preview_flash_off">关</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="imgly_orientation_name_cw">左旋转</string>
+    <string name="imgly_orientation_name_ccw">右旋转</string>
+    <string name="imgly_orientation_name_flip_h">左右镜面旋转</string>
+    <string name="imgly_orientation_name_flip_v">上下镜面旋转</string>
+
+</resources>

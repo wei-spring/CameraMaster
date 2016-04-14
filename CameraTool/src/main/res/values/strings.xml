@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">相机大师</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_share">ShareActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">相机大师</string>
+
+</resources>

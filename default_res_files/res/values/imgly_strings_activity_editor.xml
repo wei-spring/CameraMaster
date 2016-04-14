@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="imgly_photo_editor_title">编辑</string>
+
+    <string name="imgly_photo_editor_accept">完成</string>
+    <string name="imgly_photo_editor_cancel">取消</string>
+
+    <string name="imgly_photo_editor_save">保存</string>
+
+    <string name="imgly_photo_editor_cancel_image_title">退出编辑?</string>
+    <string name="imgly_photo_editor_cancel_image_content">亲,真的要放弃编辑吗?</string>
+    <string name="imgly_photo_editor_cancel_image_yes">是</string>
+    <string name="imgly_photo_editor_cancel_image_no">否</string>
+
+    <string name="imgly_photo_editor_export_progress">保存图片…</string>
+
+</resources>

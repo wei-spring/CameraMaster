@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="imgly_tool_name_magic">魔幻</string>
+    <string name="imgly_tool_name_filter">滤镜</string>
+    <string name="imgly_tool_name_orientation">适应</string>
+    <string name="imgly_tool_name_focus">聚焦</string>
+    <string name="imgly_tool_name_crop">修剪</string>
+    <string name="imgly_tool_name_adjust">调整</string>
+    <string name="imgly_tool_name_adjust_brightness">亮度</string>
+    <string name="imgly_tool_name_adjust_contrast">对比</string>
+    <string name="imgly_tool_name_adjust_saturation">饱和度</string>
+    <string name="imgly_tool_name_sticker">标签</string>
+    <string name="imgly_tool_name_sticker_options">标签选项</string>
+    <string name="imgly_tool_name_text">文本</string>
+    <string name="imgly_tool_name_text_add">文本</string>
+    <string name="imgly_tool_name_text_options">文本选项</string>
+    <string name="imgly_tool_name_text_color">文本颜色</string>
+    <string name="imgly_tool_name_text_font">字体</string>
+
+</resources>

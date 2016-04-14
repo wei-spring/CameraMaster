@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="imgly_text_option_font">字体</string>
+    <string name="imgly_text_option_color">颜色</string>
+    <string name="imgly_text_option_bg_color">背景颜色</string>
+
+    <string name="imgly_text_option_flip_v">@string/imgly_orientation_name_flip_v</string>
+    <string name="imgly_text_option_flip_h">@string/imgly_orientation_name_flip_h</string>
+    <string name="imgly_text_option_to_front">To Front</string>
+    <string name="imgly_text_option_delete">删除</string>
+
+    <string name="imgly_text_panel_edit_text_placeholder">输入内容</string>
+
+</resources>
