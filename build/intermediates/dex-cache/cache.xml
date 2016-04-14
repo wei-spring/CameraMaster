@@ -2,67 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.3.0_254e22cad307a51fc070666002b413c66887ea38.jar" />
+        sha1="be086be33a612120a782f978166e849e8af4545c">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_81fdfe68f860adc7a7741b265da0c99cb9975e7d/classes.dex" />
     </item>
     <item
-        jar="/Users/weichunsheng/Library/Android/sdk/build-tools/23.0.2/renderscript/lib/renderscript-v8.jar"
-        jumboMode="false"
+        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="762016371811e15a66e97cf27f3e852bf287aaf3">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/pre-dexed/release/renderscript-v8_3ba470083770f773e861a24d79a5914e2719e6c3.jar" />
+        sha1="8e5a60cf1afccf132f81b3ae191b864273cc9066">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_b95b5fcb70ec4ae7fd2579818775e39a0ba51dae/classes.dex" />
     </item>
     <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.2.0_da7149005b2bc15d8f1ca29ac2dfe7530555842a.jar" />
-    </item>
-    <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/pre-dexed/release/internal_impl-23.2.0_292efde4b6df5fd837db6e9204301d6fdb7cf570.jar" />
-    </item>
-    <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.2.0_d7f31623169c71b5acad57e0f3cf261ebb5d7b6f.jar" />
-    </item>
-    <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/exploded-aar/net.hockeyapp.android/HockeySDK/3.7.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="9a3e35e200361c43e180a8bc56296f32ce478899">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/pre-dexed/release/net.hockeyapp.android-HockeySDK-3.7.0_e445fdac98c840fe14c812ba239d9d01558098d2.jar" />
-    </item>
-    <item
-        jar="/Users/weichunsheng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/pre-dexed/release/support-annotations-23.2.0_c98f9593f727c8ac5457567d50f05f0070e8cf1c.jar" />
-    </item>
-    <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.3.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-8.3.0_2b5cab6a05ab66090a79abe8afa40377b820ab54.jar" />
-    </item>
-    <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/exploded-aar/ly.img.android/photo-editor-sdk/1.0.8/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a9e7c9b7565429382c5ca44e34eb6dfa9ea28d6c">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/app/build/intermediates/pre-dexed/release/ly.img.android-photo-editor-sdk-1.0.8_2b9fe8c440033462df56bbaa85fbf6b5438b2ad8.jar" />
+        sha1="61029755e3e59c6833f5a46e8bf1483eefcf979c">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_de065db3021193f63d7769aff459e30901ce000d/classes.dex" />
     </item>
 
 </items>
