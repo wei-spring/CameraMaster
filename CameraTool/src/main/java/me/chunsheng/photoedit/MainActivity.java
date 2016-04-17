@@ -14,8 +14,10 @@ import android.widget.Toast;
 
 
 import com.gitonway.lee.niftymodaldialogeffects.lib.NiftyDialogBuilder;
+import com.umeng.message.PushAgent;
 
 import java.io.File;
+import java.util.Set;
 
 import ly.img.android.ui.activities.CameraPreviewActivity;
 import ly.img.android.ui.activities.CameraPreviewIntent;
@@ -42,16 +44,32 @@ public class MainActivity extends FragmentActivity implements PermissionRequest.
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_main);
 
-        new CameraPreviewIntent(this)
-                .setExportDir(CameraPreviewIntent.Directory.DCIM, FOLDER)
-                .setExportPrefix("img_")
-                .setEditorIntent(
-                        new PhotoEditorIntent(this)
-                                .setExportDir(PhotoEditorIntent.Directory.DCIM, FOLDER)
-                                .setExportPrefix("result_")
-                                .destroySourceAfterSave(true)
-                )
-                .startActivityForResult(CAMERA_PREVIEW_RESULT);
+        String Url = "";
+        Bundle bun = getIntent().getExtras();
+        if (bun != null) {
+            Set<String> keySet = bun.keySet();
+            for (String WebUrl : keySet) {
+                Url = bun.getString(WebUrl);
+            }
+        }
+
+        Toast.makeText(this,"URL:"+ Url,Toast.LENGTH_SHORT).show();
+        if (Url != "") {
+            startActivity(new Intent(this, WebviewActivity.class).putExtra("WebUrl", Url));
+        } else {
+            new CameraPreviewIntent(this)
+                    .setExportDir(CameraPreviewIntent.Directory.DCIM, FOLDER)
+                    .setExportPrefix("img_")
+                    .setEditorIntent(
+                            new PhotoEditorIntent(this)
+                                    .setExportDir(PhotoEditorIntent.Directory.DCIM, FOLDER)
+                                    .setExportPrefix("result_")
+                                    .destroySourceAfterSave(true)
+                    )
+                    .startActivityForResult(CAMERA_PREVIEW_RESULT);
+        }
+
+        PushAgent.getInstance(this).onAppStart();
     }
 
     @Override

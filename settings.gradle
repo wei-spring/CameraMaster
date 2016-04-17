@@ -1,1 +1,1 @@
-include ':app', ':CameraTool'
+include ':app', ':CameraTool', ':PushSDK'

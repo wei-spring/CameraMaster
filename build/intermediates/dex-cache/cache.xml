@@ -2,25 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
-        jumboMode="true"
+        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/src/main/libs/need_lib.jar"
+        jumboMode="false"
         revision="23.0.2"
-        sha1="be086be33a612120a782f978166e849e8af4545c">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_81fdfe68f860adc7a7741b265da0c99cb9975e7d/classes.dex" />
+        sha1="58de9ecfba229dbb2c3eb3f45dbe284ba58100ea">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/pre-dexed/release/need_lib_94cec34140859cf74374805d24a6c093bebcc71b.jar" />
     </item>
     <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
-        jumboMode="true"
+        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/src/main/libs/BDAutoUpdateSDK_20150605_V1.2.0.jar"
+        jumboMode="false"
         revision="23.0.2"
-        sha1="8e5a60cf1afccf132f81b3ae191b864273cc9066">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_b95b5fcb70ec4ae7fd2579818775e39a0ba51dae/classes.dex" />
+        sha1="5b5e4923e09dda3f3e98026c1c8c1c2ed7d04541">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/pre-dexed/release/BDAutoUpdateSDK_20150605_V1.2.0_7bdbbbd087a20ee30ed2c4aab39b8d68bd0daf27.jar" />
     </item>
     <item
-        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
-        jumboMode="true"
+        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/exploded-aar/CameraMaster/PushSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
         revision="23.0.2"
-        sha1="61029755e3e59c6833f5a46e8bf1483eefcf979c">
-        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_de065db3021193f63d7769aff459e30901ce000d/classes.dex" />
+        sha1="35f1650b8865d6bfaad0bda8db5415967cf7cf6f">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/pre-dexed/release/CameraMaster-PushSDK-unspecified_ba9e65e10fb049d5319cc64af6ff0e75ca1e84e2.jar" />
+    </item>
+    <item
+        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/src/main/libs/patchupdate.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="311e10769e9bf8db15f166b8196e8c18b6238c27">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/pre-dexed/release/patchupdate_f44209722901ca70471ab1bb38f812680c79f9b8.jar" />
+    </item>
+    <item
+        jar="/Users/weichunsheng/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/pre-dexed/release/okio-1.2.0_ca6df91695a899bc63b01b9e1bcadc905c418218.jar" />
+    </item>
+    <item
+        jar="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/exploded-aar/CameraMaster/PushSDK/unspecified/jars/libs/com.umeng.message_v2.8.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2cfacf6a986428f2dc9426f3ff6962ae0e590f21">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/pre-dexed/release/com.umeng.message_v2.8.0_6e02985c663669774a79b1dd3484f5bbfeaa18d7.jar" />
+    </item>
+    <item
+        jar="/Users/weichunsheng/.gradle/caches/modules-2/files-2.1/com.squareup.wire/wire-runtime/1.7.0/99b61fbfbd9ae5d5309bb4a618e1f2d875821e2c/wire-runtime-1.7.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="99b61fbfbd9ae5d5309bb4a618e1f2d875821e2c">
+        <dex dex="/Users/weichunsheng/Documents/CameraMaster/CameraTool/build/intermediates/pre-dexed/release/wire-runtime-1.7.0_4b7a8475cd7873146589bd853ef71f992ff96b5d.jar" />
     </item>
 
 </items>
